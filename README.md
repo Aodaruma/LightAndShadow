@@ -4,6 +4,8 @@
 
 現在は **version 1.01** が最新です。
 
+![thumbnail](https://github.com/Aodaruma/Light-Shadow/blob/main/thumbnail.png)
+
 以下のスクリプトが備わっています。
 
 ## light&shadow
